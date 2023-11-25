@@ -1,12 +1,12 @@
 # list of persons
-- name: sivakumar reddy
+- name: Maha
   dob: 07-07-017
   # this is map
   address:
     city: hyd
     country: india
     dno: 102
-    street: ganghi nagar
+    street: mothi nagar
   # this is list of addresses
   addresses:
   - type: perm
@@ -23,7 +23,7 @@
     city: hyd
     country: india
     dno: 102
-    street: ganghi nagar
+    street: mothi nagar
   # this is list of addresses
   addresses:
   - type: perm
